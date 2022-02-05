@@ -1,2 +1,2 @@
 # electronic_circuit
-for HNUer
+CPU(verilog)for HNUer
